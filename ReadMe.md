@@ -117,4 +117,5 @@ This ensures secure access to the database server.
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understood. The experiment also provided practical knowledge of cloud infrastructure, server configuration, database management, and remote access. Thus, a functional database server was successfully deployed and managed in the AWS cloud environment.
+
